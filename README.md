@@ -47,7 +47,7 @@ Gostou do curso ou tem alguma sugestão? Sinta-se à vontade para abrir uma issu
 
 ---
 
-**Desenvolvido por:** Lucas Pequeno Sterzeck
-**LinkedIn:** [Lucas Pequeno Sterzeck](https://www.linkedin.com/in/lucas-p-a87365108/)
+**Desenvolvido por:** Lucas Pequeno Sterzeck<br>
+**LinkedIn:** [Lucas Pequeno Sterzeck](https://www.linkedin.com/in/lucas-p-a87365108/)<br>
 **E-mail:** lpsterzeck@outlook.com
 
